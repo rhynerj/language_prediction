@@ -1,0 +1,4 @@
+English simpleenglish.txt
+English simpleenglish2.txt
+Unknown simpleenglish.txt
+Spanish spanish1.txt

@@ -1,0 +1,56 @@
+french3.txt
+	french 82.5%
+	spanish 57.9%
+	romanian 53.5%
+	english 41.3%
+	german 37.4%
+	dutch 36.2%
+	croatian 27.3%
+dutch4.txt
+	dutch 82.8%
+	german 58.3%
+	spanish 35.0%
+	french 32.9%
+	romanian 29.6%
+	english 28.6%
+	croatian 22.9%
+croatian6.txt
+	croatian 71.9%
+	romanian 30.9%
+	spanish 20.3%
+	french 17.6%
+	english 16.5%
+	dutch 14.6%
+	german 14.0%
+german4.txt
+	german 89.1%
+	dutch 61.7%
+	french 42.7%
+	spanish 37.1%
+	english 36.1%
+	romanian 34.8%
+	croatian 17.5%
+english5.txt
+	english 87.3%
+	french 38.1%
+	romanian 36.6%
+	german 33.6%
+	dutch 30.9%
+	spanish 30.7%
+	croatian 22.3%
+spanish3.txt
+	spanish 85.5%
+	french 58.9%
+	romanian 48.2%
+	dutch 34.4%
+	german 33.1%
+	english 30.0%
+	croatian 21.0%
+romanian1.txt
+	romanian 93.6%
+	french 56.6%
+	spanish 56.0%
+	english 40.9%
+	croatian 37.5%
+	german 36.8%
+	dutch 35.4%
